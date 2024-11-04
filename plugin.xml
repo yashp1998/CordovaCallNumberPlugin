@@ -3,12 +3,12 @@
   xmlns="http://apache.org/cordova/ns/plugins/1.0"
   xmlns:android="http://schemas.android.com/apk/res/android"
   id="call-number"
-  version="1.0.4">
+  version="2.0">
 
   <description>Call Number from Cordova Application</description>
 
   <name>Cordova Call Number Plugin</name>
-  <author>Rohith Varanasi, Nishil Shah</author>
+  <author>Alejandro Dirgan</author>
   
   
   <repo>https://github.com/Rohfosho/CordovaCallNumberPlugin.git</repo>
